@@ -1,0 +1,16 @@
+.icon {
+  color: red;
+  font-size: 40px;
+}
+
+#title {
+  color: blue;
+}
+
+.container {
+  background-color: beige;
+}
+
+.container p {
+  color: gray;
+}
